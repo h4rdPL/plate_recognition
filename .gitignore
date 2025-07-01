@@ -1,6 +1,8 @@
 .venv/
 plate_venv/
 
+.idea
+
 __pycache__/
 *.py[cod]
 
