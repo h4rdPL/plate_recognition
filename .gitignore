@@ -1,0 +1,7 @@
+.venv/
+plate_venv/
+
+__pycache__/
+*.py[cod]
+
+.env
